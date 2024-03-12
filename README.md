@@ -2,7 +2,7 @@
 # Author
 Silvia Wachira 
 # Description
-This is a repository for learning Django
+This is a repository for learning  Django
 # Technologies Used
 *Django
 # Set Up Instructions
