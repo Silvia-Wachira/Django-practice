@@ -4,7 +4,7 @@ Silvia Wachira
 # Description
 This is a repository for learning  Django
 # Technologies Used
-*Django
+*Django  
 # Set Up Instructions
 * Open terminal command line[ctrl+alt+t]<br>
 * Clone the repository<br>
